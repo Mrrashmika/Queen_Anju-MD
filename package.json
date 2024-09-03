@@ -32,7 +32,6 @@
     "tiktokdl":"0.0.5",
     "stream":"0.0.3",
     "util":"0.12.5",
-    "mongoose":"8.6.0",
     "buffer":"6.0.3"
   }
 }
