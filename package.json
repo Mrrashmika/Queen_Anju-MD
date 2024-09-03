@@ -1,0 +1,38 @@
+{
+  "name": "Queen_Anju",
+  "version": "1.0.0",
+  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "main": "queen.js",
+  "scripts": {
+    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
+    "stop": "pm2 stop Queen_Anju",
+    "restart": "pm2 restart Queen_Anju"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.6.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "pino": "^7.0.5",
+    "pm2": "^5.2.0",
+    "util": "^0.12.4",
+    "express": "latest",
+    "axios": "^1.2.5",
+    "file_size_url": "^1.0.4",
+    "fs-extra": "^11.1.0",
+    "path": "^0.12.7",
+    "node-fetch": "^2.6.1",
+    "megajs": "^1.1.0",
+    "vm": "^0.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "yt-search":"2.11.1",
+    "api-dylux":"1.8.5",
+    "fb-downloader-new":"0.0.2",
+    "ruhend-scraper":"7.0.6",
+    "moment":"2.30.1",
+    "qrcode":"1.5.4",
+    "tiktokdl":"0.0.5",
+    "stream":"0.0.3",
+    "util":"0.12.5",
+    "mongoose":"8.6.0",
+    "buffer":"6.0.3"
+  }
+}

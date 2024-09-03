@@ -1,0 +1,40 @@
+services:
+  - type: web
+    plan: free
+    name: queen-anju-md
+    runtime: docker
+    region: Frankfurt
+    branch: V-1.00
+    repo: https://github.com/Mrrashmika/Queen_Anju-MD
+    #buildCommand: |
+    #  apt-get update && \
+    #  apt-get install -y ffmpeg && \
+    #  npm install
+    autoDeploy: true
+    healthCheckPath: /
+    #startCommand: npm start
+    envVars:
+      - key: ANTI_LINK
+        value: "true"
+      - key: ALLWAYS_OFFLINE
+        value: "true"
+      - key: ANTI_BAD_WORD
+        value: "true"
+      - key: AUTO_REPLY
+        value: "true"
+      - key: WC_GB
+        value: "true"
+      - key: BOT_NUMBER
+        value: "94717775628"
+      - key: AUTO_STICKER
+        value: "true"
+      - key: READ_CMD
+        value: "true"
+      - key: AUTO_READ_STATUS
+        value: "true"
+      - key: AUTO_VOICE
+        value: "true"
+      - key: MODE
+        value: "public"
+      - key: SESSION_ID
+        value: "YOUR_SESSION_ID"
