@@ -1,6 +1,6 @@
 {
-  "name": "Queen_Anju",
-  "description": "Javascript WhatsApp bot made by GAMING RASH",
+  "name": "QUEEN-ANJU-MD",
+  "description": "Javascript WhatsApp bot made by JANITH RASHMIKA",
   "logo": "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -11,15 +11,10 @@
       "required": true
     },  
 
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+    "MONGODB": {
+      "description": "Put your mongodb url.",
       "required": true
-    },
-    
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
-      "required": true
-    }   
+    }
 },
 
      "buildpacks": [
@@ -29,4 +24,3 @@
      ],
   "stack": "heroku-24"
 }
-
