@@ -4,7 +4,7 @@ services:
     name: queen-anju-md
     runtime: docker
     region: Frankfurt
-    branch: main
+    branch: V-2.00
     repo: https://github.com/Mrrashmika/Queen_Anju-MD
     #buildCommand: |
     #  apt-get update && \
