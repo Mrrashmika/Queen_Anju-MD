@@ -36,7 +36,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 WC_GB: process.env.WC_GB || "true",  //To turn on or off welcome msg and goodbye msg
 ANTI_BAD_WORD: process.env.ANTI_BAD_WORD || "true",
-BAD_WORDS: process.env.BAD_WORDS || ["wtf", "mia", "xxx","fuck","sex"],
+BAD_WORDS: process.env.BAD_WORDS || ("wtf", "mia", "xxx","fuck","sex"),
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ALLWAYS_OFFLINE: process.env.ALLWAYS_OFFLINE || "true",
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
