@@ -41,4 +41,3 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 ALLWAYS_OFFLINE: process.env.ALLWAYS_OFFLINE || "true",
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 };
-
