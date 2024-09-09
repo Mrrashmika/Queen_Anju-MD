@@ -21,23 +21,23 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "add youe session id here",
+SESSION_ID: process.env.SESSION_ID || "yV0QkJST#fApVroDCTUiFjidyTFhuwhmVTqXRY2yy1kRql8OjUy0",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://imgtr.ee/images/2024/09/08/8e383f8918878bfc0512b2f05a81fdaa.jpeg",
 PREFIX: process.env.PREFIX || ".",
 ALIVE_MSG: process.env.ALIVE_MSG || "HELLOW THEIR, QUEEN ANJU IS ALIVE...\n\nOWNER: JANITH RASHMIKA\n\nTHANKS FOR USING QUEEN ANJU MD\n\n> *© Qᴜᴇᴇɴ ᴀɴᴊᴜ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*/n/n*> ɢɪᴛʜᴜʙ :* github.com/Mrrashmika/Queen_Anju-MD",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
-BOT_NUMBER: process.env.BOT_NUMBER || "94717775628",
+BOT_NUMBER: process.env.BOT_NUMBER || "94773620112",
 OWNER_REACT: process.env.OWNER_REACT || "🔆",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
 READ_CMD: process.env.READ_CMD || "true",
-AUTO_VOICE: process.env.AUTO_VOICE || "true",
-AUTO_STICKER: process.env.AUTO_STICKER || "true",
+AUTO_VOICE: process.env.AUTO_VOICE || "false",
+AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 WC_GB: process.env.WC_GB || "true",  //To turn on or off welcome msg and goodbye msg
 ANTI_BAD_WORD: process.env.ANTI_BAD_WORD || "true",
 BAD_WORDS: process.env.BAD_WORDS || ("wtf", "mia", "xxx","fuck","sex"),
 ANTI_LINK: process.env.ANTI_LINK || "true",
-ALLWAYS_OFFLINE: process.env.ALLWAYS_OFFLINE || "true",
-ANTI_DELETE: process.env.ANTI_DELETE || "true",
+ALLWAYS_OFFLINE: process.env.ALLWAYS_OFFLINE || "false",
+ANTI_DELETE: process.env.ANTI_DELETE || "false",
 };
