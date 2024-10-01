@@ -42,3 +42,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
    2..DEPLOY ON GITHUB
 
 ***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtu.be/NUali0Qym44?si=tlO24axYN_w2swyn) </p>***
+
+   3..DEPLOY ON KOYEB
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=queen-anju-md&type=git&repository=Mrrashmika%2FQueen_Anju-MD&branch=V-2.00&builder=dockerfile&env%5BMONGODB%5D=mongodb%3A%2F%2Fmongo%3ALwqOmIwOwqllrZFOowCLrOtedHzpHSti%40junction.proxy.rlwy.net%3A10624&env%5BSESSION_ID%5D=idNVCYIT%23QiLhSGoF_7-PK_H5RhFKr-JhfNdmMwArW5fgvuf3FB0&ports=8000%3Bhttp%3B%2F)
