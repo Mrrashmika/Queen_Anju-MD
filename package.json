@@ -10,13 +10,13 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
+    "file_size_url": "git+https://github.com/KING-RASHMIKA/file_size_url.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
     "util": "^0.12.4",
     "express": "latest",
     "axios": "^1.2.5",
-    "file_size_url": "^1.0.4",
     "fs-extra": "^11.1.0",
     "path": "^0.12.7",
     "node-fetch": "^2.6.1",
@@ -40,6 +40,9 @@
     "@ffmpeg-installer/ffmpeg":"1.1.0",
     "@blackamda/telegram-image-url":"1.0.0",
     "google-tts-api":"2.0.2",
-    "cheerio": "1.0.0"
+    "cheerio": "1.0.0",
+     "aptoide-scraper": "1.0.1",
+    "@sl-code-lords/movie-api": "1.0.0",
+    "mongoose": "8.6.3"
   }
 }
