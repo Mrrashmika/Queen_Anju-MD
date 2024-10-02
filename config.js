@@ -21,6 +21,6 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "add youe session id here",
-MONGODB: process.env.MONGODB || "your mongodb uri here",
+SESSION_ID: process.env.SESSION_ID || "rM9ykZbT#TztHMLJX-sgdzbWHJnD2UF_RO6MGheZwOq1cdMq5lHg",
+MONGODB: process.env.MONGODB || "mongodb://mongo:LwqOmIwOwqllrZFOowCLrOtedHzpHSti@junction.proxy.rlwy.net:10624"",
 };
