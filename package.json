@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
-    "file_size_url": "git+https://github.com/KING-RASHMIKA/file_size_url.git",
+    "file_size_url": "1.0.6",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
