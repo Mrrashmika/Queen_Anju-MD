@@ -46,6 +46,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
    3..DEPLOY ON KOYEB
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=queen-anju-md&type=git&repository=Mrrashmika%2FQueen_Anju-MD&branch=V-2.00&builder=dockerfile&env%5BMONGODB%5D=your+mongodb+uri&env%5BSESSION_ID%5D=your+session+id&ports=8000%3Bhttp%3B%2F)
+
    4..DEPLOY ON HEROKU
 
- [![nima](https://img.shields.io/badge/Queen Anju_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/Mrrashmika/Queen_Anju-MD)
+ [![nima](https://img.shields.io/badge/Queen_Anju_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/Mrrashmika/Queen_Anju-MD)
