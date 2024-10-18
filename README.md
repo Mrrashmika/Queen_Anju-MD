@@ -25,7 +25,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
  - 2._Link with yoour whatsappp using pair code._
    **Pair with WhatsApp* 
    <p align="center">
-       <a href="https://kulathuna23-anjupirecode.hf.space/">
+       <a href="https://multiple-kingfisher-gamingrash-6eb80034.koyeb.app/">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
