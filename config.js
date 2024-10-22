@@ -22,5 +22,5 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-MD=rNdjxTgD#ExfP_1Ani1l1FGS0vgx1Lt4sJW3c_CAWxQ7LfiQcCF0",
-MONGODB: process.env.MONGODB || "your mongodb uri here",
+MONGODB: process.env.MONGODB || "6714d84841b7990fa51b7d65",
 };
